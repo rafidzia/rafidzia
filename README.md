@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /><span> </span>
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><span> </span>
+<img src="https://img.shields.io/badge/android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=black" /><span> </span>
 <img src="https://img.shields.io/badge/espressif-%23E7352C.svg?&style=for-the-badge&logo=espressif&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/stmicroelectronics-%2303234B.svg?&style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
