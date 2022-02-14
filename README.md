@@ -4,10 +4,12 @@
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /><span> </span>
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/fastify-%23000000.svg?&style=for-the-badge&logo=fastify&logoColor=white" /><span> </span>
+<img src="https://img.shields.io/badge/socket.io-%23010101.svg?&style=for-the-badge&logo=socket.io&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /><span> </span>
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=black" /><span> </span>
+<img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" /><span> </span>
 <img src="https://img.shields.io/badge/espressif-%23E7352C.svg?&style=for-the-badge&logo=espressif&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/stmicroelectronics-%2303234B.svg?&style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
