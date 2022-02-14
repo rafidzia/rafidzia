@@ -1,4 +1,4 @@
-![](/asd.svg)
+<img src="https://raw.githubusercontent.com/rafidzia/rafidzia/84e232a67756216a4244f843f3f8dcf79c7e6f8b/asd.svg"/>
 
 <details>
 <summary>My Github Activity</summary>
