@@ -10,4 +10,4 @@
 -->
 
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafidzia&layout=compact&langs_count=8&theme=tokyonight&hide=Assembly"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafidzia&layout=compact&langs_count=10&theme=tokyonight&hide=Assembly"/>
