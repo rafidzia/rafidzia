@@ -10,4 +10,4 @@
 -->
 
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafidzia&layout=normal&langs_count=8&theme=tokyonight"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafidzia&layout=normal&langs_count=8&theme=tokyonight"/>
